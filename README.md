@@ -1,7 +1,7 @@
 raytracer-SSE-AABB
 ==================
 
-This project was completed for Engineering Parallel Software or CS194 at UC Berkeley. Our project was to optimize a serial version of parallel ray tracing. To render the stanford dragon run the command 
+This project was completed for Engineering Parallel Software or CS194 at UC Berkeley. Our project was to optimize a serial version of parallel ray tracing. To render the stanford dragon, first make the program by running make and then run the command 
 
 ./scene demo/dragon_test.test -screen
 
